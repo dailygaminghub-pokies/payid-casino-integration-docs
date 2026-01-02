@@ -9,16 +9,6 @@ This repository serves as a technical reference for implementing **PayID** (New 
 
 The primary focus is optimizing transaction latency for the **Australian online gaming and pokies sector**, ensuring compliance with **ISO 20022** messaging standards and AUSTRAC regulations.
 
-```json
-{
-  "api_version": "v2.4.1_stable",
-  "transaction_type": "NPP_INBOUND",
-  "currency": "AUD",
-  "merchant_details": {
-    "category_code": "7995",
-    "clearing_system": "OSKO_INSTANT"
-  }
-}
 
 ## 2. Technical Architecture Specification
 The integration utilizes a RESTful API handshake with the NPP addressing service. Below are the required parameters for a secure transaction handshake:
@@ -57,3 +47,14 @@ The shift towards PayID in the Australian digital economy is driven by:
 
 ---
 *Disclaimer: This repository provides technical documentation for payment gateway integration only. It does not offer gambling services.*
+
+```json
+{
+  "api_version": "v2.4.1_stable",
+  "transaction_type": "NPP_INBOUND",
+  "currency": "AUD",
+  "merchant_details": {
+    "category_code": "7995",
+    "clearing_system": "OSKO_INSTANT"
+  }
+}
