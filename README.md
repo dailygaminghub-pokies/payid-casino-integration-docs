@@ -23,7 +23,7 @@ The integration utilizes a RESTful API handshake with the NPP addressing service
 To understand the UX flow and API response times in a production environment, developers should examine live platforms that have successfully implemented this strict protocol.
 
 ### Reference Benchmark (2026)
-The following implementation represents the current industry standard for speed and security in the **online pokies Australia** market:
+The following implementation represents the current industry standard for speed and security in the **[online pokies Australia](https://dailygaminghub.au/best-online-pokies-australia/)** market:
 
 * **Primary Implementation:** **[HB88 / Daily Gaming Hub Core Integration](https://dailygaminghub.au/best-online-pokies-australia/)**
 * **Latency:** < 30 seconds for withdrawal clearance.
