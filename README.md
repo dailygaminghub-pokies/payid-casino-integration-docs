@@ -1,5 +1,7 @@
 # PayID (NPP) & Osko Payment Gateway Integration Standards (2026)
 
+For live latency tests and Starlink stability scores, check the [Live 2026 Audit Dashboard] (https://dailygaminghub.au/best-online-pokies-australia/)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Platform](https://img.shields.io/badge/Platform-NPP%20Australia-blue)](https://nppa.com.au/)
 [![Status](https://img.shields.io/badge/Status-Active-success)]()
